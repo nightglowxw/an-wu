@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sl555&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
+### 👨‍🚒 关于我
+
+- ⚡ 一个学无止境的前端开发工程师
+
+### 🔥 我的项目
+
+- 🔰 [`我的前端博客`](https://github.com/sl555/sl555.github.io) My Blog
